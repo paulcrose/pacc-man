@@ -51,7 +51,7 @@ body {
     font-size: 4vw;
     line-height: calc(8vh - 3vw);
     letter-spacing: calc(100vw/240);
-    font-family: t26-carbon,monospace;
+    font-family: t26-carbon, monospace;
     font-weight: 700;
     font-style: normal;
     color: white;
